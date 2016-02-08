@@ -31,7 +31,7 @@ for (let item of mySet.values()) console.log(item);
 
 // logs the items in the order: 1, "some text" 
 //(key and value are the same here)
-for (let [key, value] of mySet.entries()) console.log(key);
+//for (let [key, value] of mySet.entries()) console.log(key);
 
 
 // Iterate set entries with forEach
